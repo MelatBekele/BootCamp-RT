@@ -1,0 +1,153 @@
+Sub Apl_Stock_Name()
+' Stocke_Market Macro
+Dim ws As Worksheet
+Dim a As Long
+Dim volume As Double
+Dim closing
+volume = 0
+Dim color As Integer
+Dim opening  As Double
+Dim test As Double
+Dim year_change As Double
+Dim Change As Double
+Dim testCl As Double
+For Each ws In ThisWorkbook.Worksheets
+ Dim WorksheetName As String
+ WorksheetName = ws.Name
+ ws.Range("K1:n1").Value = [{"Ticker", "Year Change", "Percent Change", "Total Stock Volume"}]
+ ws.Range("P2").Value = "Greatest % increase"
+ ws.Range("P3").Value = "Greatest% decrease"
+ ws.Range("P4").Value = "Greatest total Volume"
+
+ Dim Ticker As String
+ Dim stockindex As Long
+ stockindex = 2
+ Dim ticker_Copy As Long
+ Dim Dates_ST As Integer
+ Dim Lastcolumn As Integer
+
+ a = ws.Cells(Rows.Count, 1).End(xlUp).Row
+ For ticker_Copy = 2 To a
+   If ws.Cells(ticker_Copy + 1, 1) <> ws.Cells(ticker_Copy, 1) Then
+      ws.Cells(stockindex, 11) = (ws.Cells(ticker_Copy, 1))
+      stockindex = stockindex + 1
+           
+      volume = volume + ws.Cells(ticker_Copy, 7)
+      ws.Cells(stockindex - 1, 14) = volume
+      volume = 0
+      
+     ws.Range("H" & stockindex - 1) = ws.Cells(ticker_Copy, 6).Value
+    
+    Else
+      volume = volume + ws.Cells(ticker_Copy, 7)
+       
+   End If
+   Next ticker_Copy
+
+Dim lastcol As Double
+Dim intal As Double
+Dim initalTM As Range
+Dim nextreg As Range
+
+lastcol = ws.Cells(Rows.Count, 11).End(xlUp).Row
+a = ws.Cells(Rows.Count, 1).End(xlUp).Row
+Set nextreg = ws.Range("c2: c" & (a))
+Set initalTM = ws.Range("A2:A" & (a))
+        
+For intal = 2 To lastcol
+On Error Resume Next
+
+ws.Range("I" & intal) = Application.WorksheetFunction.Index(nextreg, Application.WorksheetFunction.Match(ws.Range("K" & (intal)), initalTM, 0))
+
+Next intal
+
+
+'Calculation year change and percent change
+lastcol = ws.Cells(Rows.Count, 11).End(xlUp).Row
+For intal = 2 To lastcol
+year_change = (ws.Range("I" & intal).Value) - (ws.Range("h" & intal).Value)
+Change = ((ws.Range("h" & intal).Value) - (ws.Range("I" & intal).Value)) / (ws.Range("I" & intal).Value)
+ws.Range("l" & intal) = year_change
+ws.Range("m" & intal) = Change
+Next intal
+
+ws.Range("H:I").Clear
+
+'Dim color As Integer
+Lastcolumn = ws.Cells(Rows.Count, 12).End(xlUp).Row
+For color = 2 To Lastcolumn
+  If ws.Range("L" & color).Value < 0 Then
+    ws.Range("L" & color).Interior.color = vbRed
+  Else
+      ws.Range("L" & color).Interior.color = vbGreen
+  End If
+Next color
+
+
+' formate to Percent
+Dim percentype As Integer
+Dim Lastcolumnper As Integer
+Lastcolumnper = ws.Cells(Rows.Count, 13).End(xlUp).Row
+For color = 2 To Lastcolumnper
+   ws.Range("M:M").Style = "Percent"
+Next color
+
+
+'finding max result
+
+Dim resultmax As Double
+Dim Lastcolumnpermax As Double
+Dim myrange As Range
+Dim maxnum As Double
+Set myrange = ws.Range("M:M")
+resultmax = Application.WorksheetFunction.Max(myrange)
+ws.Range("R2") = resultmax
+
+Lastcolumnpermax = ws.Cells(Rows.Count, 13).End(xlUp).Row
+For maxnum = 1 To Lastcolumnpermax
+ If ws.Range("m" & maxnum).Value = resultmax Then
+   ws.Range("Q2") = ws.Range("k" & maxnum).Value
+End If
+
+Next maxnum
+
+
+'finding min result
+Dim resultmin As Double
+Dim Lastcolumnpermin As Double
+Dim minnum As Double
+resultmin = Application.WorksheetFunction.Min(myrange)
+ws.Range("R3") = resultmin
+
+Lastcolumnpermin = ws.Cells(Rows.Count, 13).End(xlUp).Row
+For minnum = 1 To Lastcolumnpermin
+ If ws.Range("m" & minnum).Value = resultmin Then
+   ws.Range("Q3") = ws.Range("k" & minnum).Value
+End If
+
+Next minnum
+
+
+'finding the Greatest total Volume
+Dim Greatesttotal As Double
+Dim Greatestmax As Double
+Dim myrangT As Range
+Dim Greatestnum As Double
+Set myrangT = ws.Range("N:N")
+Greatesttotal = Application.WorksheetFunction.Max(myrangT)
+ws.Range("R4") = Greatesttotal
+
+Greatestmax = ws.Cells(Rows.Count, 13).End(xlUp).Row
+For Greatestnum = 1 To Greatestmax
+ If ws.Range("N" & Greatestnum).Value = Greatesttotal Then
+   ws.Range("Q4") = ws.Range("k" & Greatestnum).Value
+End If
+
+Next Greatestnum
+
+ws.Range("K1:n1").Interior.color = vbBlue
+
+Next ws
+
+
+End Sub

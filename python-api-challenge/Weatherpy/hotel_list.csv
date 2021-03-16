@@ -1,0 +1,579 @@
+,City,Country,Lat,Lng,Hotel
+0,Tigil',RU,57.8,158.6667,Tigil'
+1,Codrington,AU,-38.2667,141.9667,Codrington
+2,Mar del Plata,AR,-38.0023,-57.5575,Mar del Plata
+3,Casino,AU,-28.8667,153.05,Casino
+4,Hithadhoo,MV,-0.6,73.0833,Hithadhoo
+5,Kavaratti,IN,10.5669,72.642,Kavaratti
+6,Bambous Virieux,MU,-20.3428,57.7575,Bambous Virieux
+7,Domoni,KM,-12.2569,44.5319,Domoni
+8,Tasiilaq,GL,65.6145,-37.6368,Tasiilaq
+9,Salalah,OM,17.0151,54.0924,Salalah
+10,Chui,UY,-33.6971,-53.4616,Chui
+11,Rikitea,PF,-23.1203,-134.9692,Rikitea
+12,Avera,US,33.194,-82.5271,Avera
+13,Hilo,US,19.7297,-155.09,Hilo
+14,Gashua,NG,12.870999999999999,11.0482,Gashua
+15,Lorengau,PG,-2.0226,147.2712,Lorengau
+16,Saint-Philippe,RE,-21.3585,55.7679,Saint-Philippe
+17,Bredasdorp,ZA,-34.5322,20.0403,Bredasdorp
+18,Outlook,CA,51.5001,-107.0513,Outlook
+19,Qurayyat,SA,31.3318,37.3428,Qurayyat
+20,Avarua,CK,-21.2078,-159.775,Avarua
+21,Severnyy,RU,50.677,36.5532,Severnyy
+22,Khatanga,RU,71.9667,102.5,Khatanga
+23,Ushuaia,AR,-54.8,-68.3,Ushuaia
+24,Qiongshan,CN,20.0058,110.3542,Qiongshan
+25,Bubaque,GW,11.2833,-15.8333,Bubaque
+26,Thompson,CA,55.7435,-97.8558,Thompson
+27,Leningradskiy,RU,69.3833,178.4167,Leningradskiy
+28,Vrangel',RU,42.7297,133.0839,Vrangel'
+29,São Filipe,CV,14.8961,-24.4956,São Filipe
+30,Touros,BR,-5.1989,-35.4608,Touros
+31,Kavieng,PG,-2.5744,150.7967,Kavieng
+32,Togur,RU,58.3631,82.8265,Togur
+33,Xichang,CN,27.8964,102.2634,Xichang
+34,Bluff,NZ,-46.6,168.3333,Bluff
+35,Albany,US,42.6001,-73.9662,Albany
+36,Port Lincoln,AU,-34.7333,135.8667,Port Lincoln
+37,Kieta,PG,-6.2167,155.6333,Kieta
+38,Bengkulu,ID,-3.8004,102.2655,Bengkulu
+39,Bathsheba,BB,13.2167,-59.5167,Bathsheba
+40,Sète,FR,43.4018,3.6966,Sète
+41,Sharlyk,RU,52.9167,54.75,Sharlyk
+42,Mataura,NZ,-46.1927,168.8643,Mataura
+43,Hofn,IS,64.2539,-15.2082,Hofn
+44,Busselton,AU,-33.65,115.3333,Busselton
+45,Arcata,US,40.8665,-124.0828,Arcata
+46,Kutum,SD,14.2,24.6667,Kutum
+47,Seydi,TM,39.4816,62.9137,Seydi
+48,Saskylakh,RU,71.9167,114.0833,Saskylakh
+49,Yunyang,CN,33.4474,112.7142,Yunyang
+50,Sibolga,ID,1.7427,98.7792,Sibolga
+51,Cidreira,BR,-30.1811,-50.2056,Cidreira
+52,El Rosario,MX,24.2556,-107.1828,El Rosario
+53,Esim,GH,4.8699,-2.2405,Esim
+54,Jamestown,US,42.097,-79.2353,Jamestown
+55,Weligama,LK,5.9667,80.4167,Weligama
+56,Sørland,NO,67.667,12.6934,Sørland
+57,Bairiki Village,KI,1.3292,172.9752,Bairiki Village
+58,Tuktoyaktuk,CA,69.4541,-133.0374,Tuktoyaktuk
+59,Ulladulla,AU,-35.35,150.4667,Ulladulla
+60,Qaanaaq,GL,77.484,-69.3632,Qaanaaq
+61,Sola,VU,-13.8833,167.55,Sola
+62,Dingle,PH,10.9995,122.6711,Dingle
+63,Cayenne,GF,4.9333,-52.3333,Cayenne
+64,Ballina,AU,-28.8667,153.5667,Ballina
+65,Cabo San Lucas,MX,22.8909,-109.9124,Cabo San Lucas
+66,Beyneu,KZ,45.3167,55.2,Beyneu
+67,Atuona,PF,-9.8,-139.0333,Atuona
+68,Ostrovnoy,RU,68.0531,39.5131,Ostrovnoy
+69,Rodolfo Sánchez Taboada,MX,31.7167,-116.5667,Rodolfo Sánchez Taboada
+70,Talavera de la Reina,ES,39.9635,-4.8308,Talavera de la Reina
+71,Upernavik,GL,72.7868,-56.1549,Upernavik
+72,Mareeba,AU,-17.0,145.4333,Mareeba
+73,Hermanus,ZA,-34.4187,19.2345,Hermanus
+74,Hobart,AU,-42.8794,147.3294,Hobart
+75,Vaini,TO,-21.2,-175.2,Vaini
+76,Nichinan,JP,31.6,131.3667,Nichinan
+77,Pangody,RU,65.85,74.4859,Pangody
+78,Witbank,ZA,-25.8713,29.2332,Witbank
+79,Novyye Lyady,RU,58.0536,56.6039,Novyye Lyady
+80,Richards Bay,ZA,-28.783,32.0377,Richards Bay
+81,Punta Arenas,CL,-53.15,-70.9167,Punta Arenas
+82,Jīran,IN,24.3167,74.8833,Jīran
+83,Muros,ES,42.7762,-9.0603,Muros
+84,Coquimbo,CL,-29.9533,-71.3436,Coquimbo
+85,Longyearbyen,SJ,78.2186,15.6401,Longyearbyen
+86,Port Alfred,ZA,-33.5906,26.891,Port Alfred
+87,Mehamn,NO,71.0357,27.8492,Mehamn
+88,Puerto Ayora,EC,-0.7393,-90.3518,Puerto Ayora
+89,Road Town,VG,18.4167,-64.6167,Road Town
+90,Port Elizabeth,ZA,-33.918,25.5701,Port Elizabeth
+91,Castro,BR,-24.7911,-50.0119,Castro
+92,Hamilton,US,39.1834,-84.5333,Hamilton
+93,Thanh Hoa,VN,19.8,105.7667,Thanh Hoa
+94,Barrow,US,71.2906,-156.7887,Barrow
+95,Saint Paul Harbor,US,57.79,-152.4072,Saint Paul Harbor
+96,Butaritari,KI,3.0707,172.7902,Butaritari
+97,Ýpsonas,CY,34.6884,32.9574,Ýpsonas
+98,Honolulu,US,21.3069,-157.8583,Honolulu
+99,George,ZA,-33.963,22.4617,George
+100,Cape Town,ZA,-33.9258,18.4232,Cape Town
+101,Kaeo,NZ,-35.1,173.7833,Kaeo
+102,Margate,GB,51.3813,1.3862,Margate
+103,Pisco,PE,-13.7,-76.2167,Pisco
+104,Charter Township of Clinton,US,42.586999999999996,-82.9199,Charter Township of Clinton
+105,New Norfolk,AU,-42.7826,147.0587,New Norfolk
+106,Kamenka,RU,51.3223,42.7678,Kamenka
+107,Mobaye,CF,4.319,21.1786,Mobaye
+108,Mahébourg,MU,-20.4081,57.7,Mahébourg
+109,San Cristobal,VE,7.7669,-72.225,San Cristobal
+110,Iqaluit,CA,63.7506,-68.5145,Iqaluit
+111,Pevek,RU,69.7008,170.3133,Pevek
+112,Padang,ID,-0.9492,100.3543,Padang
+113,Aksarka,RU,66.5606,67.7975,Aksarka
+114,Ankazoabo,MG,-22.2833,44.5167,Ankazoabo
+115,Lixouri,GR,38.2019,20.4314,Lixouri
+116,Kapaa,US,22.0752,-159.319,Kapaa
+117,Saint George,US,37.1041,-113.5841,Saint George
+118,Ikovka,RU,55.6089,64.9375,Ikovka
+119,Aksha,RU,50.2814,113.2867,Aksha
+120,Sakakah,SA,29.9697,40.2064,Sakakah
+121,Tadine,NC,-21.55,167.8833,Tadine
+122,Invermere,CA,50.5167,-116.0354,Invermere
+123,Caravelas,BR,-17.7125,-39.2481,Caravelas
+124,Slave Lake,CA,55.2834,-114.76899999999999,Slave Lake
+125,Severo-Kuril'sk,RU,50.6789,156.125,Severo-Kuril'sk
+126,Gornopravdinsk,RU,60.05,69.9,Gornopravdinsk
+127,Bugene,TZ,-1.5911,31.1403,Bugene
+128,East London,ZA,-33.0153,27.9116,East London
+129,Sayyan,YE,15.1718,44.3244,Sayyan
+130,Jurm,AF,36.8648,70.8342,Jurm
+131,Yeniseysk,RU,58.4497,92.1703,Yeniseysk
+132,Shitanjing,CN,39.2342,106.3439,Shitanjing
+133,Ranong,TH,9.9658,98.6348,Ranong
+134,Kulu,TR,39.0951,33.0799,Kulu
+135,Khani,GE,41.9563,42.9566,Khani
+137,Carnarvon,AU,-24.8667,113.6333,Carnarvon
+138,Miran Shah,PK,33.0086,70.0697,Miran Shah
+139,Faya,SA,18.3851,42.4509,Faya
+140,Luanda,AO,-8.8368,13.2343,Luanda
+141,Beringovskiy,RU,63.05,179.3167,Beringovskiy
+142,Davila,PH,18.4726,120.5763,Davila
+143,Nioro,GM,13.35,-15.75,Nioro
+144,Norman Wells,CA,65.282,-126.8329,Norman Wells
+145,Loandjili,CG,-4.7561,11.8578,Loandjili
+146,Merritt Island,US,28.5392,-80.672,Merritt Island
+147,Kathu,TH,7.9178,98.3332,Kathu
+148,Ancud,CL,-41.8697,-73.8203,Ancud
+149,Grants,US,35.1473,-107.8514,Grants
+150,Thunder Bay,CA,48.4001,-89.3168,Thunder Bay
+151,Buala,SB,-8.145,159.5921,Buala
+152,Itaueira,BR,-7.6033,-43.0256,Itaueira
+153,Ketchikan,US,55.3422,-131.6461,Ketchikan
+154,Kargat,RU,55.1956,80.2811,Kargat
+155,Hasaki,JP,35.7333,140.8333,Hasaki
+156,Mikuni,JP,36.2171,136.1519,Mikuni
+157,Fare,PF,-16.7,-151.0167,Fare
+158,Eilat,IL,29.5581,34.9482,Eilat
+159,Srednekolymsk,RU,67.45,153.6833,Srednekolymsk
+160,Bolshaya Sosnova,RU,57.6713,54.6029,Bolshaya Sosnova
+161,High Level,CA,58.5169,-117.13600000000001,High Level
+162,Lata,PT,40.1629,-8.3327,Lata
+163,Dauriya,RU,49.9333,116.8667,Dauriya
+164,Ribeira Grande,PT,38.5167,-28.7,Ribeira Grande
+165,Ilhabela,BR,-23.7781,-45.3581,Ilhabela
+166,Grants Pass,US,42.43899999999999,-123.3284,Grants Pass
+167,Yellowknife,CA,62.456,-114.3525,Yellowknife
+168,Hailar,CN,49.2,119.7,Hailar
+169,Mandalgovi,MN,45.7625,106.2708,Mandalgovi
+170,Moose Factory,CA,51.2585,-80.6094,Moose Factory
+171,Chornukhy,UA,50.2673,32.942,Chornukhy
+172,Marzuq,YE,14.4,46.4667,Marzuq
+173,Urucará,BR,-2.5364,-57.76,Urucará
+174,Vila Franca do Campo,PT,37.7167,-25.4333,Vila Franca do Campo
+175,San Quintín,MX,30.4833,-115.95,San Quintín
+176,Maicao,CO,11.3832,-72.2432,Maicao
+177,Talnakh,RU,69.4865,88.3972,Talnakh
+178,Muravlenko,RU,63.7898,74.523,Muravlenko
+179,Alépé,CI,5.5004,-3.6631,Alépé
+180,Stornoway,GB,58.2093,-6.3865,Stornoway
+181,Itarema,BR,-2.9248,-39.9167,Itarema
+182,Esperance,AU,-33.8667,121.9,Esperance
+183,Tomatlán,MX,19.9333,-105.25,Tomatlán
+184,Beitbridge,ZW,-22.2167,30.0,Beitbridge
+185,Tampere,FI,61.4991,23.7871,Tampere
+186,Aswān,EG,24.0934,32.907,Aswān
+187,Launceston,AU,-41.45,147.1667,Launceston
+188,Moïssala,TD,8.3404,17.7663,Moïssala
+189,Tautira,PF,-17.7333,-149.15,Tautira
+190,Tateyama,JP,34.9833,139.8667,Tateyama
+191,Dikson,RU,73.5069,80.5464,Dikson
+193,Storm Lake,US,42.6411,-95.2097,Storm Lake
+194,Gorontalo,ID,0.5412,123.0595,Gorontalo
+195,Anadyr,RU,64.75,177.4833,Anadyr
+196,Teya,RU,60.3778,92.6267,Teya
+197,Fremont,US,37.5483,-121.9886,Fremont
+198,Inongo,CD,-1.95,18.2667,Inongo
+199,Ishurdi,BD,24.1333,89.0833,Ishurdi
+200,Riyadh,SA,24.6877,46.7219,Riyadh
+201,Smiths Falls,CA,44.9001,-76.0161,Smiths Falls
+202,Ampanihy,MG,-24.7,44.75,Ampanihy
+203,Miraflores,MX,19.2167,-98.8083,Miraflores
+204,Mayumba,GA,-3.432,10.6554,Mayumba
+205,Bitung,ID,1.4451,125.1824,Bitung
+206,Morant Bay,JM,17.8815,-76.4093,Morant Bay
+207,Ekhabi,RU,53.5102,142.9671,Ekhabi
+208,La Ronge,CA,55.1001,-105.2842,La Ronge
+209,Port Hardy,CA,50.6996,-127.4199,Port Hardy
+210,Manta,EC,-0.95,-80.7333,Manta
+211,Lovington,US,32.944,-103.3485,Lovington
+212,Podgorica,ME,42.4411,19.2636,Podgorica
+213,Ashland,US,40.8167,-82.2665,Ashland
+214,Souillac,MU,-20.5167,57.5167,Souillac
+215,Chokurdakh,RU,70.6333,147.9167,Chokurdakh
+216,Novaya Igirma,RU,57.1334,103.9112,Novaya Igirma
+217,Kisanga,TZ,-7.4362,37.7034,Kisanga
+218,La Maná,EC,-0.9333,-79.2167,La Maná
+219,Faanui,PF,-16.4833,-151.75,Faanui
+220,Yar-Sale,RU,66.8333,70.8333,Yar-Sale
+221,Pyaozerskiy,RU,65.8333,31.1667,Pyaozerskiy
+222,Sterling,US,39.0062,-77.4286,Sterling
+223,Belgrade,RS,44.803999999999995,20.4651,Belgrade
+224,Los Andes,CL,-32.8337,-70.5983,Los Andes
+225,Chapel Hill,US,35.9132,-79.0558,Chapel Hill
+226,Mapiripán,CO,2.8892,-72.1256,Mapiripán
+227,Pemba,MZ,-12.974,40.5178,Pemba
+228,Ngama,TD,11.7833,17.1667,Ngama
+229,Ixtapa,MX,20.7,-105.2,Ixtapa
+230,Cohoes,US,42.7742,-73.7001,Cohoes
+231,Quatre Cocos,MU,-20.2078,57.7625,Quatre Cocos
+232,Morón,AR,-34.6534,-58.6198,Morón
+233,Mirny,RU,62.5353,113.9611,Mirny
+234,Dunedin,NZ,-45.8742,170.5036,Dunedin
+235,Airai,TL,-8.9266,125.4092,Airai
+236,Taoudenni,ML,22.6783,-3.9836,Taoudenni
+237,Nikolskoye,RU,59.7035,30.7861,Nikolskoye
+238,Shingū,JP,33.7333,135.9833,Shingū
+239,Khandyga,RU,62.6667,135.6,Khandyga
+240,La Argentina,CO,2.1961,-75.98,La Argentina
+241,Karlovac,HR,45.4872,15.5478,Karlovac
+242,Tuatapere,NZ,-46.1333,167.6833,Tuatapere
+244,Bilibino,RU,68.0546,166.4372,Bilibino
+245,Lusambo,CD,-4.9667,23.45,Lusambo
+246,Half Moon Bay,US,37.4636,-122.4286,Half Moon Bay
+247,Devrek,TR,41.2192,31.9558,Devrek
+248,Cherskiy,RU,68.75,161.3,Cherskiy
+249,Lagoa,PT,39.05,-27.9833,Lagoa
+250,Pangnirtung,CA,66.1451,-65.7125,Pangnirtung
+251,Tabou,CI,4.423,-7.3528,Tabou
+252,Ugoofaaru,MV,5.6667,73.0,Ugoofaaru
+253,Wanaka,NZ,-44.7,169.15,Wanaka
+254,Polunochnoye,RU,60.8697,60.4153,Polunochnoye
+255,Biasca,CH,46.3597,8.9697,Biasca
+256,Kruisfontein,ZA,-34.0033,24.7314,Kruisfontein
+257,Umluj,SA,25.0213,37.2685,Umluj
+258,Banjar,ID,-8.19,114.9675,Banjar
+259,Robe,AU,-37.1833,139.75,Robe
+260,Arman',RU,59.7,150.1667,Arman'
+261,Vysokogornyy,RU,50.1167,139.15,Vysokogornyy
+262,Vardø,NO,70.3705,31.1107,Vardø
+263,Rio Grande,BR,-32.035,-52.0986,Rio Grande
+264,Qaqortoq,GL,60.7167,-46.0333,Qaqortoq
+265,Berlevåg,NO,70.8578,29.0864,Berlevåg
+266,Ubari,LY,26.5921,12.7805,Ubari
+267,Leeuwarden,NL,53.2014,5.8086,Leeuwarden
+268,Puerto Rico,AR,-26.796,-55.023999999999994,Puerto Rico
+269,Varhaug,NO,58.6147,5.6457,Varhaug
+270,Lufilufi,WS,-13.8745,-171.5986,Lufilufi
+271,Tual,ID,-5.6667,132.75,Tual
+272,Nouadhibou,MR,20.930999999999997,-17.0347,Nouadhibou
+273,Kantābānji,IN,20.4833,82.9167,Kantābānji
+274,Narón,ES,43.5167,-8.1528,Narón
+275,Pijijiapan,MX,15.7011,-93.23,Pijijiapan
+276,Kamaishi,JP,39.2667,141.8833,Kamaishi
+277,Tiksi,RU,71.6872,128.8694,Tiksi
+278,Iwaki,JP,37.05,140.8833,Iwaki
+279,Makakilo City,US,21.3469,-158.0858,Makakilo City
+280,Gemena,CD,3.25,19.7667,Gemena
+281,Puerto Cabezas,NI,14.0351,-83.3888,Puerto Cabezas
+282,Northam,GB,51.0333,-4.2167,Northam
+283,Camacha,PT,33.0833,-16.3333,Camacha
+284,Saint-Augustin,CA,51.226000000000006,-58.6502,Saint-Augustin
+285,Yangi Marg`ilon,UZ,40.4272,71.7189,Yangi Marg`ilon
+286,Boa Vista,BR,2.8197,-60.6733,Boa Vista
+287,Saint Anthony,US,45.0205,-93.21799999999999,Saint Anthony
+288,Diamantino,BR,-14.4086,-56.4461,Diamantino
+289,Brae,GB,60.3964,-1.3530000000000002,Brae
+290,Jacareacanga,BR,-6.2222,-57.7528,Jacareacanga
+291,Normandin,CA,48.8333,-72.5321,Normandin
+292,Gilgit,PK,35.9221,74.3087,Gilgit
+293,Kloulklubed,PW,7.0419,134.2556,Kloulklubed
+294,Lebu,CL,-37.6167,-73.65,Lebu
+295,Okhotsk,RU,59.3833,143.3,Okhotsk
+296,Kawalu,ID,-7.3817,108.2082,Kawalu
+297,Bethel,US,41.3712,-73.414,Bethel
+298,Maïné Soroa,NE,13.2114,12.0241,Maïné Soroa
+299,Soyo,AO,-6.1349,12.3689,Soyo
+300,Taltal,CL,-25.4,-70.4833,Taltal
+301,Zapolyarnyy,RU,69.4154,30.8136,Zapolyarnyy
+302,Homer,US,59.6425,-151.5483,Homer
+303,Paita,PE,-5.0892,-81.1144,Paita
+304,Indianola,US,41.3581,-93.5574,Indianola
+305,Makat,KZ,47.6469,53.3463,Makat
+306,Butembo,CD,0.15,29.2833,Butembo
+307,Maceió,BR,-9.6658,-35.7353,Maceió
+308,Bandarbeyla,SO,9.4942,50.8122,Bandarbeyla
+309,Les Cayes,HT,18.2,-73.75,Les Cayes
+310,Provideniya,RU,64.3833,-173.3,Provideniya
+311,Ndélé,CF,8.4109,20.6473,Ndélé
+312,Inhambane,MZ,-23.865,35.3833,Inhambane
+313,Mayo,US,38.8876,-76.5119,Mayo
+314,Ericeira,PT,38.9627,-9.4156,Ericeira
+315,Houston,US,29.7633,-95.3633,Houston
+316,Sitka,US,57.0531,-135.33,Sitka
+317,Saldanha,ZA,-33.0117,17.9442,Saldanha
+318,Laela,TZ,-8.5667,32.05,Laela
+319,Broome,US,42.2506,-75.833,Broome
+320,Pacifica,US,37.6138,-122.4869,Pacifica
+321,Pacific Grove,US,36.6177,-121.9166,Pacific Grove
+322,Kawanoechō,JP,34.0167,133.5667,Kawanoechō
+323,Benguela,AO,-12.5763,13.4055,Benguela
+324,Hancheng,CN,32.5186,112.3522,Hancheng
+325,Oistins,BB,13.0667,-59.5333,Oistins
+326,Geraldton,AU,-28.7667,114.6,Geraldton
+327,Laï,TD,9.3952,16.2989,Laï
+328,Ganzhou,CN,28.8184,115.4327,Ganzhou
+329,Clyde River,CA,70.4692,-68.5914,Clyde River
+330,Simplício Mendes,BR,-7.8539,-41.9103,Simplício Mendes
+331,Xam Nua,LA,20.4197,104.0439,Xam Nua
+332,Ozernovskiy,RU,51.5,156.5167,Ozernovskiy
+333,Tucuruí,BR,-3.7661,-49.6725,Tucuruí
+334,Nishihara,JP,26.1842,127.7558,Nishihara
+335,Charters Towers,AU,-20.1,146.2667,Charters Towers
+336,Moindou,NC,-21.6924,165.67700000000002,Moindou
+337,Port Macquarie,AU,-31.4333,152.9167,Port Macquarie
+338,Tabuk,PH,17.4189,121.4443,Tabuk
+339,Nome,US,64.5011,-165.4064,Nome
+340,Morada Nova,BR,-5.1067,-38.3725,Morada Nova
+341,Valparaíso,CL,-33.0393,-71.6273,Valparaíso
+342,Cap Malheureux,MU,-19.9842,57.6142,Cap Malheureux
+343,Caucaia,BR,-3.7361,-38.6531,Caucaia
+344,Flagstaff,US,35.1981,-111.6513,Flagstaff
+345,Luwingu,ZM,-10.2621,29.9271,Luwingu
+346,San Luis,AR,-33.295,-66.3356,San Luis
+347,Arraial do Cabo,BR,-22.9661,-42.0278,Arraial do Cabo
+348,Kumul,CN,42.8,93.45,Kumul
+349,Shubarshi,KZ,48.5872,57.1869,Shubarshi
+350,Vega de Alatorre,MX,20.0333,-96.6333,Vega de Alatorre
+351,Okha,RU,53.5739,142.9478,Okha
+352,Bima,ID,-8.4667,118.7167,Bima
+353,Nabire,ID,-3.3667,135.4833,Nabire
+354,Tineo,ES,43.3376,-6.4145,Tineo
+355,Sühbaatar,MN,50.2314,106.2078,Sühbaatar
+356,Rincon,US,32.296,-81.2354,Rincon
+357,Khovd,MN,48.0056,91.6419,Khovd
+358,Hanting,CN,36.7708,119.2108,Hanting
+359,Hambantota,LK,6.1241,81.1185,Hambantota
+360,Namatanai,PG,-3.6667,152.4333,Namatanai
+361,Cap-aux-Meules,CA,47.3821,-61.8597,Cap-aux-Meules
+362,Constitución,CL,-35.3333,-72.4167,Constitución
+363,Skole,UA,49.0372,23.5135,Skole
+364,Kununurra,AU,-15.7667,128.7333,Kununurra
+365,Lompoc,US,34.6391,-120.4579,Lompoc
+366,Troitskoye,RU,52.9821,84.6757,Troitskoye
+367,Luis Moya,MX,22.4324,-102.2486,Luis Moya
+368,Tura,IN,25.5198,90.2201,Tura
+369,Torbay,CA,47.6666,-52.7314,Torbay
+370,The Valley,AI,18.217,-63.0578,The Valley
+371,Korla,CN,41.7597,86.1469,Korla
+372,Mana,GF,5.6592,-53.7767,Mana
+373,Nantucket,US,41.2835,-70.0995,Nantucket
+374,Changji,CN,44.0167,87.3167,Changji
+375,Chiang Kham,TH,19.5233,100.3,Chiang Kham
+376,Laya,PH,17.4726,121.4678,Laya
+377,Wenceslau Braz,BR,-23.8739,-49.8028,Wenceslau Braz
+378,Nizhneangarsk,RU,55.7833,109.55,Nizhneangarsk
+379,Kilgore,US,32.3863,-94.8758,Kilgore
+380,Inuvik,CA,68.3499,-133.7218,Inuvik
+381,General Pico,AR,-35.6566,-63.7568,General Pico
+382,Chapleau,CA,47.8405,-83.4034,Chapleau
+383,Nizhniy Kuranakh,RU,58.8353,125.4869,Nizhniy Kuranakh
+384,Garoua,CM,9.3,13.4,Garoua
+385,Colquechaca,BO,-18.6667,-66.0167,Colquechaca
+386,Muisne,EC,0.6,-80.0333,Muisne
+387,Bayangol,RU,50.6977,103.4656,Bayangol
+388,Chāndbāli,IN,20.7833,86.7667,Chāndbāli
+389,Yumen,CN,40.2833,97.2,Yumen
+390,Puerto Escondido,MX,15.85,-97.0667,Puerto Escondido
+391,Magdagachi,RU,53.45,125.8,Magdagachi
+392,Lafiagi,NG,8.8667,5.4167,Lafiagi
+393,Zhoucheng,CN,35.9122,116.3117,Zhoucheng
+394,Manavālakurichi,IN,8.1333,77.3,Manavālakurichi
+395,Menongue,AO,-14.6585,17.691,Menongue
+396,Klaksvík,FO,62.2266,-6.5889999999999995,Klaksvík
+397,Bonthe,SL,7.5264,-12.505,Bonthe
+398,Bonavista,CA,48.6499,-53.1147,Bonavista
+399,Lavrentiya,RU,65.5833,-171.0,Lavrentiya
+400,Moratuwa,LK,6.773,79.8816,Moratuwa
+401,Galle,LK,6.0367,80.217,Galle
+402,Ambon City,ID,-3.6954,128.1814,Ambon City
+403,Novy Urengoy,RU,66.0833,76.6333,Novy Urengoy
+404,Flinders,AU,-34.5833,150.8552,Flinders
+405,Zuwārah,LY,32.9312,12.082,Zuwārah
+406,Manono,CD,-7.3,27.4167,Manono
+407,Kalanchak,UA,46.2562,33.2907,Kalanchak
+408,San Ramon,US,37.7799,-121.978,San Ramon
+409,Bireun,ID,5.202999999999999,96.7009,Bireun
+410,Ķegums,LV,56.7451,24.7244,Ķegums
+411,Isangel,VU,-19.55,169.2667,Isangel
+412,Dzerzhinsk,RU,56.2389,43.4631,Dzerzhinsk
+414,Poplar Bluff,US,36.757,-90.3929,Poplar Bluff
+415,Lovozero,RU,68.005,35.0117,Lovozero
+416,Cumberland,US,35.0502,-78.8664,Cumberland
+417,Areia Branca,BR,-4.9561,-37.1369,Areia Branca
+418,Rawson,AR,-43.3002,-65.1023,Rawson
+419,Angoche,MZ,-16.2325,39.9086,Angoche
+420,Hong Kong,HK,22.2855,114.1577,Hong Kong
+421,Mikkeli,FI,61.6886,27.2723,Mikkeli
+422,Yerbogachën,RU,61.2767,108.0108,Yerbogachën
+423,Lishu,CN,43.3047,124.3278,Lishu
+424,Uyemskiy,RU,64.4743,40.8524,Uyemskiy
+425,Melita,CA,49.2681,-100.9967,Melita
+426,Porto Torres,IT,40.835,8.3972,Porto Torres
+427,Anapskaya,RU,44.89,37.38,Anapskaya
+428,Chulumani,BO,-16.4096,-67.5263,Chulumani
+429,Ulyanovsk Oblast,RU,54.0,48.0,Ulyanovsk Oblast
+430,Lipin Bor,RU,60.2622,37.9763,Lipin Bor
+431,Batagay-Alyta,RU,67.8006,130.4114,Batagay-Alyta
+432,Saint-Paul,RE,-21.0096,55.2707,Saint-Paul
+433,Key West,US,24.5557,-81.7826,Key West
+434,Patawag,PH,8.1064,122.6208,Patawag
+435,Zhangaözen,KZ,43.3,52.8,Zhangaözen
+436,Paso del Toro,MX,19.0333,-96.1167,Paso del Toro
+437,Kaminoyama,JP,38.1539,140.2736,Kaminoyama
+438,Pemangkat,ID,1.1667,108.9667,Pemangkat
+439,Luba,GQ,3.4568,8.5547,Luba
+440,Tahe,CN,52.3333,124.7333,Tahe
+441,Évreux,FR,49.0241,1.1508,Évreux
+442,San Patricio,US,28.017,-97.5169,San Patricio
+443,Rockland,US,41.1668,-74.0496,Rockland
+444,Pontes e Lacerda,BR,-15.2261,-59.3353,Pontes e Lacerda
+445,Laas,IT,46.6166,10.7002,Laas
+446,Uarini,BR,-2.99,-65.1083,Uarini
+447,Kiruna,SE,67.8557,20.2251,Kiruna
+448,Guerrero Negro,MX,27.9769,-114.0611,Guerrero Negro
+449,Bintulu,MY,3.1667,113.0333,Bintulu
+450,Kandalaksha,RU,67.16199999999999,32.4123,Kandalaksha
+451,Puerto Colombia,CO,10.9878,-74.9547,Puerto Colombia
+452,Mount Gambier,AU,-37.8333,140.7667,Mount Gambier
+453,George Town,MY,5.4112,100.3354,George Town
+454,Juba,SS,4.8517,31.5825,Juba
+455,Poum,NC,-20.2333,164.0167,Poum
+456,Sorong,ID,-0.8833,131.25,Sorong
+457,Shihezi,CN,44.3,86.0333,Shihezi
+458,Luganville,VU,-15.5333,167.1667,Luganville
+459,Shubarkuduk,KZ,49.1447,56.4872,Shubarkuduk
+460,George Town,MY,5.4112,100.3354,George Town
+461,Port-Gentil,GA,-0.7193,8.7815,Port-Gentil
+462,Saint-Raymond,CA,45.467,-73.6095,Saint-Raymond
+463,Fortuna,US,40.5982,-124.1573,Fortuna
+464,Mariehamn,AX,60.0973,19.9348,Mariehamn
+465,Tiarei,PF,-17.5333,-149.3333,Tiarei
+466,Kiryat Gat,IL,31.61,34.7642,Kiryat Gat
+467,Vostok,RU,46.4856,135.8833,Vostok
+468,Madimba,TZ,-10.4,40.3333,Madimba
+469,Tilichiki,RU,60.4667,166.1,Tilichiki
+470,Yatou,CN,37.15,122.3833,Yatou
+471,Wasilla,US,61.5814,-149.4394,Wasilla
+472,Avesta,SE,60.1455,16.1679,Avesta
+473,Yūbari,JP,43.0378,141.9578,Yūbari
+474,Koson,UZ,39.0375,65.585,Koson
+475,La Santisima Trinidad,BO,-14.8333,-64.9,La Santisima Trinidad
+476,Vangaindrano,MG,-23.35,47.6,Vangaindrano
+477,Beaverlodge,CA,55.2166,-119.4361,Beaverlodge
+478,Knysna,ZA,-34.0363,23.0471,Knysna
+479,Ambilobe,MG,-13.2,49.05,Ambilobe
+480,Ha Giang,VN,22.8333,104.9833,Ha Giang
+481,Hope,US,33.6671,-93.5916,Hope
+482,Philadelphia,US,39.9523,-75.1638,Philadelphia
+483,Bouaflé,CI,6.9904,-5.7442,Bouaflé
+484,Nizwá,OM,22.9333,57.5333,Nizwá
+485,Gizo Government Station,SB,-8.103,156.8419,Gizo Government Station
+486,Lal'sk,RU,60.7415,47.5862,Lal'sk
+487,Adeje,ES,28.1227,-16.726,Adeje
+488,Nhulunbuy,AU,-12.2333,136.7667,Nhulunbuy
+489,Fairbanks,US,64.8378,-147.7164,Fairbanks
+490,Am Timan,TD,11.0297,20.2827,Am Timan
+491,Panguna,PG,-6.3164,155.4848,Panguna
+492,Deer Lake,CA,49.1667,-57.4316,Deer Lake
+493,Mersing,MY,2.4312,103.8405,Mersing
+494,Trogir,HR,43.5125,16.2517,Trogir
+495,Peru,US,40.7537,-86.0689,Peru
+496,Kupang,ID,-10.1667,123.5833,Kupang
+497,Beloslav,BG,43.1833,27.7,Beloslav
+498,Ozinki,RU,51.1786,49.6769,Ozinki
+499,Alofi,NU,-19.0595,-169.9187,Alofi
+500,Sambava,MG,-14.2667,50.1667,Sambava
+501,Tuy Hoa,VN,13.0833,109.3,Tuy Hoa
+502,Sabha,LY,27.0377,14.4283,Sabha
+503,Port Hedland,AU,-20.3167,118.5667,Port Hedland
+504,Takaka,NZ,-40.85,172.8,Takaka
+505,Omiš,HR,43.4447,16.6886,Omiš
+506,Yukon,US,35.5067,-97.7625,Yukon
+507,Palora,EC,-1.7,-77.9333,Palora
+508,Teeli,RU,51.0333,90.2333,Teeli
+509,Ahmadpur,IN,18.7,76.9333,Ahmadpur
+510,Sioux Lookout,CA,50.1001,-91.917,Sioux Lookout
+511,Roald,NO,62.5833,6.1333,Roald
+512,Nzega,RW,-2.479,29.5564,Nzega
+513,Polis,CY,35.0367,32.4264,Polis
+514,Raudeberg,NO,61.9875,5.1352,Raudeberg
+515,Katsuura,JP,35.1333,140.3,Katsuura
+516,Kaitangata,NZ,-46.2817,169.8464,Kaitangata
+517,Dukhovshchina,RU,55.1919,32.4111,Dukhovshchina
+518,Acapulco de Juárez,MX,16.8634,-99.8901,Acapulco de Juárez
+519,Yulara,AU,-25.2406,130.9889,Yulara
+520,Gore,NZ,-46.1028,168.9436,Gore
+521,Buraidah,SA,26.326,43.975,Buraidah
+522,Ilulissat,GL,69.2167,-51.1,Ilulissat
+523,Basoko,CD,1.2391,23.616,Basoko
+524,Mackenzie,CA,55.2999,-123.1698,Mackenzie
+525,Mahon,ES,39.8885,4.2658,Mahon
+526,Vila,PT,42.0304,-8.1588,Vila
+527,Naze,JP,28.3667,129.4833,Naze
+528,Adrar,MR,20.5022,-10.0711,Adrar
+529,Umm Kaddadah,SD,13.6017,26.6876,Umm Kaddadah
+530,Hay River,CA,60.8156,-115.7999,Hay River
+531,Mildura,AU,-34.2,142.15,Mildura
+532,Mormugao,IN,15.4,73.8,Mormugao
+533,Kharp,RU,66.8014,65.8081,Kharp
+534,San Miguel de Cozumel,MX,20.5083,-86.9458,San Miguel de Cozumel
+535,Turiaçu,BR,-1.6633,-45.3717,Turiaçu
+536,Trondheim,NO,63.4305,10.3951,Trondheim
+537,Boffa,GN,10.1667,-14.0333,Boffa
+538,Bisignano,IT,39.5059,16.2772,Bisignano
+539,Viljoenskroon,ZA,-27.2084,26.9485,Viljoenskroon
+540,Simpang,ID,-1.2667,104.0833,Simpang
+541,Krasnosel'kup,RU,65.7,82.4667,Krasnosel'kup
+542,Alta Floresta,BR,-9.8756,-56.0861,Alta Floresta
+543,Barra Patuca,HN,15.8,-84.2833,Barra Patuca
+544,Portland,US,45.5234,-122.6762,Portland
+545,Zeya,RU,53.75,127.2667,Zeya
+546,Taihe,CN,30.8712,105.3845,Taihe
+547,Phan Thiet,VN,10.9333,108.1,Phan Thiet
+548,Auki,SB,-8.7676,160.7034,Auki
+549,Matara,LK,5.9485,80.5353,Matara
+550,Freeport,US,40.6576,-73.5832,Freeport
+551,Marawi,PH,7.9986,124.2928,Marawi
+552,Formosa,AR,-26.1775,-58.1781,Formosa
+553,Vao,NC,-22.6667,167.4833,Vao
+554,Mitsamiouli,KM,-11.3847,43.2844,Mitsamiouli
+555,Wakefield,GB,53.6809,-1.499,Wakefield
+556,Great Yarmouth,GB,52.6083,1.7305,Great Yarmouth
+557,Stalowa Wola,PL,50.5829,22.0533,Stalowa Wola
+558,Evensk,RU,61.95,159.2333,Evensk
+559,Kirakira,SB,-10.4544,161.9205,Kirakira
+560,Husavik,IS,66.0449,-17.3389,Husavik
+561,Port Blair,IN,11.6667,92.75,Port Blair
+562,Amursk,RU,50.2261,136.8994,Amursk
+563,Jinja,UG,0.439,33.2032,Jinja
+564,Mindif,CM,10.3976,14.4363,Mindif
+565,Hualmay,PE,-11.0964,-77.6139,Hualmay
+566,Santa Rosalía,MX,27.3167,-112.2833,Santa Rosalía
+567,Hailun,CN,47.45,126.9333,Hailun
+568,Mnogovershinnyy,RU,53.9353,139.9242,Mnogovershinnyy
+569,Nanortalik,GL,60.1432,-45.2371,Nanortalik
+570,Araouane,ML,18.9048,-3.5265,Araouane
+571,Alice Springs,AU,-23.7,133.8833,Alice Springs
+572,Chipinge,ZW,-20.1883,32.6236,Chipinge
+573,Bondo,CD,3.8146,23.6866,Bondo
+574,Sudak,UA,44.85,34.9667,Sudak
+575,Port-Cartier,CA,50.0334,-66.8654,Port-Cartier
+576,Ahipara,NZ,-35.1667,173.1667,Ahipara
+577,São José da Coroa Grande,BR,-8.8978,-35.1478,São José da Coroa Grande
+578,Slavyanka,RU,42.8633,131.3847,Slavyanka
+579,Abu Kamal,SY,34.4506,40.9171,Abu Kamal
+580,Gualaca,PA,8.5333,-82.3,Gualaca
+581,Praia da Vitória,PT,38.7333,-27.0667,Praia da Vitória

@@ -1,1 +1,13 @@
 python-api-challenge - weather 
+
+Latitude vs. Max Temperature 
+North is more cold temprature as south has a high temprature. The correlation of Northern Hemisphere between Max Temp and Latitude strong.
+
+Latitude vs. Humidity
+South and North Hmaisphare do not have diffrence in humidity. both have humidity in lower number and higher numbers, although we see less Humidity from between 0 to 40 latitude.
+
+Latitude vs. Cloudiness
+Spread of cloudiness is the same in both hamisphare.
+
+Latitude vs. Wind Speed
+Southern Hemisphere has negative correlation while North Hemisphere has positive correlation with Wind Speed. 
